@@ -1,4 +1,4 @@
-package com.dhanajitkapali.translator.Util
+package com.dhanajitkapali.translator.core.domain.Util
 
 import com.dhanajitkapali.translator.core.domain.Util.CommonMutableStateFlow
 import kotlinx.coroutines.flow.MutableStateFlow

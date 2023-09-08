@@ -1,6 +1,6 @@
 package com.dhanajitkapali.translator.core.domain.Util
 
-import com.dhanajitkapali.translator.Util.DisposableHandle
+import com.dhanajitkapali.translator.core.domain.Util.DisposableHandle
 import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.flow.Flow
