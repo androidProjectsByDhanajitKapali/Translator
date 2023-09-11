@@ -1,4 +1,4 @@
-package com.dhanajitkapali.translator.presentation
+package com.dhanajitkapali.translator.core.presentation
 
 import com.dhanajitkapali.translator.core.domain.language.Language
 

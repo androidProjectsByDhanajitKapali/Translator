@@ -2,7 +2,7 @@ package com.dhanajitkapali.translator.translate.presentation
 
 import com.dhanajitkapali.translator.core.domain.Util.Resource
 import com.dhanajitkapali.translator.core.domain.Util.toCommonStateFlow
-import com.dhanajitkapali.translator.presentation.UiLanguage
+import com.dhanajitkapali.translator.core.presentation.UiLanguage
 import com.dhanajitkapali.translator.translate.domain.history.HistoryDataSource
 import com.dhanajitkapali.translator.translate.domain.translate.Translate
 import com.dhanajitkapali.translator.translate.domain.translate.TranslateException

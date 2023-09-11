@@ -1,6 +1,6 @@
 package com.dhanajitkapali.translator.translate.presentation
 
-import com.dhanajitkapali.translator.presentation.UiLanguage
+import com.dhanajitkapali.translator.core.presentation.UiLanguage
 import com.dhanajitkapali.translator.translate.domain.translate.TranslateError
 
 data class TranslateState(
